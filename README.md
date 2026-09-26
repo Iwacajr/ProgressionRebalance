@@ -129,4 +129,4 @@ On Windows, use `gradlew.bat` instead of `./gradlew`.
 
 ## License
 
-All Rights Reserved. See [LICENSE.txt](LICENSE.txt).
+MIT License. See [LICENSE.txt](LICENSE.txt).
