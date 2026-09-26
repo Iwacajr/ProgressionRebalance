@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "progressionrebalance",
+  "version": "${version}",
+  "name": "Progression Rebalance",
+  "description": "A Vanilla+ progression rebalance that makes neglected vanilla mechanics worth using: viable gold gear, stronger specialized enchantments, lapis enchanting pages, faster minecarts and cheaper rails, longer and mixable potions, meaningful Luck, thematic structure loot, and villager trades that no longer skip the diamond age.",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.iwaca.progressionrebalance.client.ProgressionRebalanceDataGenerator"
+    ],
+    "client": [
+      "com.iwaca.progressionrebalance.client.ProgressionRebalanceClient"
+    ],
+    "main": [
+      "com.iwaca.progressionrebalance.ProgressionRebalance"
+    ]
+  },
+  "mixins": [
+    "progressionrebalance.mixins.json",
+    {
+      "config": "progressionrebalance.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

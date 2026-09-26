@@ -1,0 +1,17 @@
+{
+  "block.progressionrebalance.potion_cauldron": "Caldero con poción",
+  "container.progressionrebalance.enchant.page": "Página de ofertas %s",
+  "enchantment.minecraft.bane_of_arthropods": "Perdición",
+  "item.minecraft.lingering_potion.effect.progressionrebalance.resistance": "Poción persistente de resistencia",
+  "item.minecraft.potion.effect.progressionrebalance.resistance": "Poción de resistencia",
+  "item.minecraft.splash_potion.effect.progressionrebalance.resistance": "Poción arrojadiza de resistencia",
+  "item.minecraft.tipped_arrow.effect.empty": "Flecha con efectos mezclados",
+  "item.minecraft.tipped_arrow.effect.progressionrebalance.resistance": "Flecha de resistencia",
+  "item.progressionrebalance.mixed_lingering_potion": "Poción persistente mezclada",
+  "item.progressionrebalance.mixed_potion": "Poción mezclada",
+  "item.progressionrebalance.mixed_splash_potion": "Poción arrojadiza mezclada",
+  "message.progressionrebalance.mixing.different_kinds": "Solo se pueden mezclar pociones del mismo tipo (bebible, arrojadiza o persistente)",
+  "message.progressionrebalance.mixing.no_new_effect": "Esa poción no añade ningún efecto nuevo a la mezcla",
+  "message.progressionrebalance.mixing.nothing_to_mix": "Esa poción no tiene ningún efecto que mezclar",
+  "message.progressionrebalance.mixing.too_many_effects": "Una mezcla puede tener como máximo %s efectos"
+}

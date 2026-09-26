@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.iwaca.progressionrebalance.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractMinecartEntityMixin",
+    "DamageEntityEnchantmentEffectMixin",
+    "EnchantmentBuilderAccessor",
+    "EnchantmentScreenHandlerMixin",
+    "LivingEntityAccessor",
+    "PotionAccessor",
+    "PotionsMixin",
+    "RecipeManagerMixin",
+    "ShapedRecipeAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

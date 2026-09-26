@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:spider",
+    "minecraft:cave_spider",
+    "minecraft:silverfish",
+    "minecraft:endermite",
+    "minecraft:creeper",
+    "minecraft:slime",
+    "minecraft:magma_cube",
+    "minecraft:guardian",
+    "minecraft:elder_guardian",
+    "minecraft:ravager"
+  ]
+}

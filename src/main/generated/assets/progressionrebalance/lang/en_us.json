@@ -1,0 +1,17 @@
+{
+  "block.progressionrebalance.potion_cauldron": "Potion Cauldron",
+  "container.progressionrebalance.enchant.page": "Offer page %s",
+  "enchantment.minecraft.bane_of_arthropods": "Bane",
+  "item.minecraft.lingering_potion.effect.progressionrebalance.resistance": "Lingering Potion of Resistance",
+  "item.minecraft.potion.effect.progressionrebalance.resistance": "Potion of Resistance",
+  "item.minecraft.splash_potion.effect.progressionrebalance.resistance": "Splash Potion of Resistance",
+  "item.minecraft.tipped_arrow.effect.empty": "Mixed Tipped Arrow",
+  "item.minecraft.tipped_arrow.effect.progressionrebalance.resistance": "Arrow of Resistance",
+  "item.progressionrebalance.mixed_lingering_potion": "Mixed Lingering Potion",
+  "item.progressionrebalance.mixed_potion": "Mixed Potion",
+  "item.progressionrebalance.mixed_splash_potion": "Mixed Splash Potion",
+  "message.progressionrebalance.mixing.different_kinds": "Only potions of the same kind (drinkable, splash or lingering) can be mixed",
+  "message.progressionrebalance.mixing.no_new_effect": "That potion adds no new effect to the mixture",
+  "message.progressionrebalance.mixing.nothing_to_mix": "That potion has no effect to mix in",
+  "message.progressionrebalance.mixing.too_many_effects": "A mixture can hold at most %s effects"
+}

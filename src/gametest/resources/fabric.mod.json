@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "progressionrebalance-gametest",
+  "version": "1.0.0",
+  "name": "Progression Rebalance GameTests",
+  "description": "Automated in-game tests for Progression Rebalance. Development only; never shipped.",
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-gametest": [
+      "com.iwaca.progressionrebalance.gametest.EquipmentAndRecipeTests",
+      "com.iwaca.progressionrebalance.gametest.PotionTests",
+      "com.iwaca.progressionrebalance.gametest.EnchantingPageTests",
+      "com.iwaca.progressionrebalance.gametest.EnchantmentTests",
+      "com.iwaca.progressionrebalance.gametest.LootTests",
+      "com.iwaca.progressionrebalance.gametest.VillagerTradeTests",
+      "com.iwaca.progressionrebalance.gametest.MinecartTests"
+    ]
+  },
+  "depends": {
+    "progressionrebalance": "*",
+    "fabric-gametest-api-v1": "*"
+  }
+}
