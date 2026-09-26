@@ -6,7 +6,7 @@
   "description": "A Vanilla+ progression rebalance that makes neglected vanilla mechanics worth using: viable gold gear, stronger specialized enchantments, lapis enchanting pages, faster minecarts and cheaper rails, longer and mixable potions, meaningful Luck, thematic structure loot, and villager trades that no longer skip the diamond age.",
   "authors": [],
   "contact": {},
-  "license": "All-Rights-Reserved",
+  "license": "MIT",
   "environment": "*",
   "entrypoints": {
     "fabric-datagen": [
